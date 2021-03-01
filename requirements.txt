@@ -1,0 +1,7 @@
+ftfy
+torch
+spacy
+pytorch-ignite
+pytorch-transformers
+tensorboardX
+tensorflow  
